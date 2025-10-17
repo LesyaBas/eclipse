@@ -1,1 +1,1 @@
-﻿
+print("Massive Eclipse Lesya")
